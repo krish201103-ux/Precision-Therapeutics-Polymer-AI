@@ -1,4 +1,4 @@
-#  Precision Therapeutics – Polymer AI Platform
+##  Precision Therapeutics – Polymer AI Platform
 
 An AI-driven decision-support platform integrating patient gene expression,
 human drug–gene interactions, and polymer carrier properties for
